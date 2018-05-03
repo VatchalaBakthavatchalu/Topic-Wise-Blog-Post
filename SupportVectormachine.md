@@ -1,4 +1,4 @@
-#Support Vector Machine Learning Algorithm
+# Support Vector Machine Learning Algorithm
 
 https://medium.com/machine-learning-for-humans/supervised-learning-2-5c1c23f3560d
 
